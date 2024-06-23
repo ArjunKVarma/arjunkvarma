@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun krishnakumar</h1>
 <h3 align="center">A passionate learner eager to explore modern technology and frameworks. I have experience in web and mobile development and I consistently upskill myself. Welcome to my Github !</h3>
 
-- 👨‍💻 All of my projects are available at [ajk-v.netlify.app](ajk-v.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ajk-v.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
